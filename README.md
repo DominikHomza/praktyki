@@ -1,0 +1,2 @@
+# praktyki
+Aplikacja „spotkanie amw” 
