@@ -1,2 +1,2 @@
 # praktyki
-Aplikacja „spotkanie amw” 
+Strona „strona intrenetowa egzaminu z dwoma kafelkami inf03 inf04” 
